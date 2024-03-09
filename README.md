@@ -12,10 +12,11 @@ SCREENSHOTS:
 
 3)Mark Completed tasks:
 
-
+![Screenshot (1115)](https://github.com/Mohan6040/TO-DO-APP/assets/98705120/9ad7e9fd-c075-4c3a-b774-b0144248c112)
 
 4) Delete the Completed Task:
 
+![Screenshot (1116)](https://github.com/Mohan6040/TO-DO-APP/assets/98705120/9ad7e9fd-c075-4c3a-b774-b0144248c112)
 
    
 
