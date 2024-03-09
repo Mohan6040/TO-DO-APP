@@ -1,6 +1,6 @@
 DEMO: https://roaring-platypus-76c3ee.netlify.app
 
-/*Todo App */
+# **Todo App**
 
 A simple and stylish Todo App to help you organize your tasks. This app allows you to add new tasks, mark them as completed, and delete tasks that are no longer needed.
 
